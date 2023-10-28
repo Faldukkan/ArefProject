@@ -1,0 +1,39 @@
+<div style="width: 100%; height: 100%; position: relative; background: white">
+    <div style="width: 393px; height: 59px; left: 0px; top: 0px; position: absolute; justify-content: center; align-items: flex-end; display: inline-flex">
+        <div style="flex: 1 1 0; align-self: stretch; padding-bottom: 3px; padding-left: 10px; flex-direction: column; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+            <div style="width: 54px; height: 21px; padding-top: 1px; border-radius: 24px; justify-content: center; align-items: center; display: inline-flex">
+                <div style="width: 54px; height: 20px; text-align: center; color: black; font-size: 16px; font-family: SF Pro Text; font-weight: 600; line-height: 21px; word-wrap: break-word">9:41</div>
+            </div>
+        </div>
+        <div style="align-self: stretch; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+            <div style="width: 125px; height: 37px; background: black; border-radius: 100px; justify-content: center; align-items: flex-start; gap: 8px; display: inline-flex">
+                <div style="width: 80px; height: 37px; position: relative; background: black; border-radius: 100px"></div>
+                <div style="width: 37px; height: 37px; position: relative; background: black; border-radius: 100px"></div>
+            </div>
+        </div>
+        <div style="flex: 1 1 0; align-self: stretch; padding-right: 11px; justify-content: center; align-items: center; gap: 8px; display: flex">
+            <div style="justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+                <div style="width: 18px; height: 12px; background: black"></div>
+                <img style="width: 17px; height: 11.83px" src="https://via.placeholder.com/17x12" />
+                <div style="width: 27.40px; height: 13px; position: relative">
+                    <div style="width: 25px; height: 13px; left: 0px; top: 0px; position: absolute; opacity: 0.35; border-radius: 4px; border: 1px black solid"></div>
+                    <div style="width: 1.40px; height: 4.22px; left: 26px; top: 5px; position: absolute; opacity: 0.40; background: black"></div>
+                    <div style="width: 21px; height: 9px; left: 2px; top: 2px; position: absolute; background: black; border-radius: 2px"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="width: 323.33px; height: 174.67px; left: 35px; top: 206px; position: absolute">
+        <div style="width: 323.33px; height: 115.79px; left: 0px; top: 58.88px; position: absolute; text-align: center; color: #CCC1F0; font-size: 89.19px; font-family: Alexandria; font-weight: 600; word-wrap: break-word">عــــــارف</div>
+        <div style="width: 79.88px; height: 82.43px; left: 30.43px; top: -0px; position: absolute; opacity: 0.28; background: #FFE77D; box-shadow: 7.432827949523926px 7.432827949523926px 7.432827949523926px; border: 1.86px black solid; filter: blur(7.43px)"></div>
+        <img style="width: 60.86px; height: 86.35px; left: 39.94px; top: 7.85px; position: absolute" src="https://via.placeholder.com/61x86" />
+    </div>
+    <div style="width: 262px; height: 58px; left: 58px; top: 633px; position: absolute">
+        <div style="width: 262px; height: 58px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 0px 3.682539701461792px 1.841269850730896px #D9D9D9; border-radius: 18.41px"></div>
+        <div style="left: 48px; top: 14px; position: absolute; text-align: center; color: #CCC1F0; font-size: 24px; font-family: Alexandria; font-weight: 600; word-wrap: break-word">تسجيل الدخول</div>
+    </div>
+    <div style="width: 262px; height: 58px; left: 58px; top: 556px; position: absolute">
+        <div style="width: 262px; height: 58px; left: 0px; top: 0px; position: absolute; background: #CCC1F0; box-shadow: 0px 0px 3.682539701461792px #D9D9D9; border-radius: 18.41px"></div>
+        <div style="left: 67px; top: 14px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Alexandria; font-weight: 500; word-wrap: break-word">حساب جديد</div>
+    </div>
+</div>
