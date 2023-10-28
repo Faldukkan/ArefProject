@@ -1,0 +1,54 @@
+<div style="width: 100%; height: 100%; position: relative; background: #CCC1F0">
+    <div style="left: 0px; top: 0px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="width: 393px; height: 59px; justify-content: center; align-items: flex-end; display: flex">
+            <div style="flex: 1 1 0; align-self: stretch; padding-bottom: 3px; padding-left: 10px; flex-direction: column; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+                <div style="width: 54px; height: 21px; padding-top: 1px; border-radius: 24px; justify-content: center; align-items: center; display: inline-flex">
+                    <div style="width: 54px; height: 20px; text-align: center; color: black; font-size: 16px; font-family: SF Pro Text; font-weight: 600; line-height: 21px; word-wrap: break-word">9:41</div>
+                </div>
+            </div>
+            <div style="align-self: stretch; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+                <div style="width: 125px; height: 37px; background: black; border-radius: 100px; justify-content: center; align-items: flex-start; gap: 8px; display: inline-flex">
+                    <div style="width: 80px; height: 37px; position: relative; background: black; border-radius: 100px"></div>
+                    <div style="width: 37px; height: 37px; position: relative; background: black; border-radius: 100px"></div>
+                </div>
+            </div>
+            <div style="flex: 1 1 0; align-self: stretch; padding-right: 11px; justify-content: center; align-items: center; gap: 8px; display: flex">
+                <div style="justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+                    <div style="width: 18px; height: 12px; background: black"></div>
+                    <img style="width: 17px; height: 11.83px" src="https://via.placeholder.com/17x12" />
+                    <div style="width: 27.40px; height: 13px; position: relative">
+                        <div style="width: 25px; height: 13px; left: 0px; top: 0px; position: absolute; opacity: 0.35; border-radius: 4px; border: 1px black solid"></div>
+                        <div style="width: 1.40px; height: 4.22px; left: 26px; top: 5px; position: absolute; opacity: 0.40; background: black"></div>
+                        <div style="width: 21px; height: 9px; left: 2px; top: 2px; position: absolute; background: black; border-radius: 2px"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="width: 393px; height: 686px; left: 0px; top: 236px; position: absolute; background: white; border-radius: 4px"></div>
+    <div style="width: 355px; height: 255.28px; left: 19px; top: 87px; position: absolute">
+        <div style="width: 355px; height: 212.28px; left: 0px; top: 43px; position: absolute; background: white; box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25); border-radius: 36.13px"></div>
+        <div style="width: 85px; height: 85px; left: 135px; top: 0px; position: absolute; background: white; box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.25); border-radius: 9999px"></div>
+        <div style="width: 76px; height: 76px; left: 140px; top: 5px; position: absolute; background: white; box-shadow: 0px 0px 7.1529412269592285px rgba(0, 0, 0, 0.25); border-radius: 9999px"></div>
+        <div style="left: 156px; top: 15px; position: absolute; text-align: center; color: black; font-size: 22.49px; font-family: Alexandria; font-weight: 400; word-wrap: break-word">60<br/>ثانية</div>
+    </div>
+    <div style="left: 32px; top: 206px; position: absolute; text-align: center; color: black; font-size: 24.47px; font-family: Alexandria; font-weight: 500; word-wrap: break-word">Which keyword is used to <br/>declare a constant in Java?</div>
+    <div style="width: 359px; height: 374px; left: 19px; top: 363px; position: absolute">
+        <div style="width: 359px; height: 63px; padding-left: 14px; padding-right: 14px; padding-top: 4px; padding-bottom: 4px; left: 0px; top: 143px; position: absolute; background: #F7F7F7; box-shadow: 0px 0px 4px rgba(30, 30, 30, 0.60); border-radius: 10.19px; border: 1px solid; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+            <div style="text-align: right; color: black; font-size: 24.47px; font-family: Alexandria; font-weight: 400; word-wrap: break-word">b) static</div>
+        </div>
+        <div style="width: 359px; height: 63px; padding-left: 14px; padding-right: 14px; padding-top: 4px; padding-bottom: 4px; left: 0px; top: 59px; position: absolute; background: #F7F7F7; box-shadow: 0px 0px 4px rgba(30, 30, 30, 0.60); border-radius: 10.19px; border: 1px solid; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+            <div style="text-align: right; color: black; font-size: 24.47px; font-family: Alexandria; font-weight: 400; word-wrap: break-word">a) var</div>
+        </div>
+        <div style="width: 359px; height: 63px; padding-left: 14px; padding-right: 14px; padding-top: 4px; padding-bottom: 4px; left: 0px; top: 227px; position: absolute; background: #F7F7F7; box-shadow: 0px 0px 4px rgba(30, 30, 30, 0.60); border-radius: 10.19px; border: 1px solid; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+            <div style="text-align: right; color: black; font-size: 24.47px; font-family: Alexandria; font-weight: 400; word-wrap: break-word">c) final</div>
+        </div>
+        <div style="width: 359px; height: 63px; padding-left: 14px; padding-right: 14px; padding-top: 4px; padding-bottom: 4px; left: 0px; top: 311px; position: absolute; background: #F7F7F7; box-shadow: 0px 0px 4px rgba(30, 30, 30, 0.60); border-radius: 10.19px; border: 1px solid; justify-content: flex-start; align-items: center; gap: 10px; display: inline-flex">
+            <div style="text-align: right; color: black; font-size: 24.47px; font-family: Alexandria; font-weight: 400; word-wrap: break-word">d) constant</div>
+        </div>
+        <div style="left: 190px; top: 0px; position: absolute; text-align: center; color: black; font-size: 24.47px; font-family: Alexandria; font-weight: 400; word-wrap: break-word">اختر من التالي :</div>
+    </div>
+    <div style="padding-left: 33px; padding-right: 33px; padding-top: 11px; padding-bottom: 11px; left: 133px; top: 758px; position: absolute; background: white; box-shadow: 0px 0px 8.116972923278809px rgba(30, 30, 30, 0.60); border-radius: 40.58px; border: 2.03px solid; justify-content: center; align-items: flex-start; gap: 20.29px; display: inline-flex">
+        <div style="text-align: center; color: #CCC1F0; font-size: 24.35px; font-family: Alexandria; font-weight: 500; word-wrap: break-word">التالي</div>
+    </div>
+</div>
