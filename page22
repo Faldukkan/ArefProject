@@ -1,0 +1,91 @@
+<div style="width: 100%; height: 100%; background: white; flex-direction: column; justify-content: flex-start; align-items: center; gap: 17px; display: inline-flex">
+    <div style="width: 393px; justify-content: center; align-items: center; gap: 242px; display: inline-flex">
+        <div style="width: 393px; height: 68px; padding-bottom: 9px; justify-content: center; align-items: center; display: flex">
+            <div style="width: 393px; height: 59px; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+                <div style="width: 393px; height: 59px; justify-content: center; align-items: flex-end; display: flex">
+                    <div style="flex: 1 1 0; align-self: stretch; padding-bottom: 3px; padding-left: 10px; flex-direction: column; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+                        <div style="width: 54px; height: 21px; padding-top: 1px; border-radius: 24px; justify-content: center; align-items: center; display: inline-flex">
+                            <div style="width: 54px; height: 20px; text-align: center; color: black; font-size: 16px; font-family: SF Pro Text; font-weight: 600; line-height: 21px; word-wrap: break-word">9:41</div>
+                        </div>
+                    </div>
+                    <div style="align-self: stretch; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+                        <div style="width: 125px; height: 37px; background: black; border-radius: 100px; justify-content: center; align-items: flex-start; gap: 8px; display: inline-flex">
+                            <div style="width: 80px; height: 37px; position: relative; background: black; border-radius: 100px"></div>
+                            <div style="width: 37px; height: 37px; position: relative; background: black; border-radius: 100px"></div>
+                        </div>
+                    </div>
+                    <div style="flex: 1 1 0; align-self: stretch; padding-right: 11px; justify-content: center; align-items: center; gap: 8px; display: flex">
+                        <div style="justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+                            <div style="width: 18px; height: 12px; background: black"></div>
+                            <img style="width: 17px; height: 11.83px" src="https://via.placeholder.com/17x12" />
+                            <div style="width: 27.40px; height: 13px; position: relative">
+                                <div style="width: 25px; height: 13px; left: 0px; top: 0px; position: absolute; opacity: 0.35; border-radius: 4px; border: 1px black solid"></div>
+                                <div style="width: 1.40px; height: 4.22px; left: 26px; top: 5px; position: absolute; opacity: 0.40; background: black"></div>
+                                <div style="width: 21px; height: 9px; left: 2px; top: 2px; position: absolute; background: black; border-radius: 2px"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div style="width: 15px; height: 30px; border: 3.75px black solid"></div>
+        <div style="text-align: right; color: black; font-size: 24.69px; font-family: Alexandria; font-weight: 700; line-height: 32.41px; word-wrap: break-word">CS 101</div>
+    </div>
+    <div style="padding-top: 36px; flex-direction: column; justify-content: center; align-items: center; gap: 10px; display: flex">
+        <div style="width: 346px; height: 182px; background: white; box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25); border-top-left-radius: 17.61px; border-top-right-radius: 17.61px; border-bottom-right-radius: 17.61px; border-bottom-left-radius: 17.61px"></div>
+        <div style="text-align: center; color: black; font-size: 24.69px; font-family: Alexandria; font-weight: 600; line-height: 32.41px; word-wrap: break-word">CS 101<br/>مقدمة في برمجة Java</div>
+        <div style="width: 301px; height: 18px; background: #D9D9D9; border-radius: 50px"></div>
+        <div style="width: 53px; height: 18px; background: black; border-radius: 50px"></div>
+    </div>
+    <div style="width: 333px; height: 130px; position: relative">
+        <div style="width: 333px; height: 64px; left: 0px; top: 0px; position: absolute; text-align: right; color: #565656; font-size: 12.33px; font-family: Alexandria; font-weight: 400; line-height: 21.43px; word-wrap: break-word"> خلال مادة مقدمة في برمجة جافا وستتعلم  العديد من المفاهيم والمهارات الأساسية والمتقدمة في عالم البرمجة وستكتسب  معرفة شاملة في البرمجة بجافا</div>
+        <div style="left: 277.91px; top: 103px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+            <img style="width: 21.56px; height: 21.56px; border-radius: 10.78px; border: 0.49px white solid" src="https://via.placeholder.com/22x22" />
+            <img style="width: 21.56px; height: 21.56px; border-radius: 10.78px; border: 0.49px white solid" src="https://via.placeholder.com/22x22" />
+            <img style="width: 21.77px; height: 21.77px; background: linear-gradient(0deg, #F4CE9B 0%, #F4CE9B 100%); border-radius: 10.89px; border: 0.49px white solid" src="https://via.placeholder.com/22x22" />
+        </div>
+        <div style="left: 219px; top: 108.36px; position: absolute; text-align: center; color: #565656; font-size: 9.43px; font-family: Alexandria; font-weight: 400; word-wrap: break-word">و 303 اخرون.. </div>
+        <div style="width: 58px; height: 18px; left: 275px; top: 69px; position: absolute; background: #D9D9D9; border-radius: 5px"></div>
+        <div style="left: 279px; top: 71px; position: absolute; color: #565656; font-size: 10.06px; font-family: Alexandria; font-weight: 500; word-wrap: break-word">#للمبتدئين</div>
+        <div style="width: 38px; height: 18px; left: 188px; top: 69px; position: absolute; background: #D9D9D9; border-radius: 5px"></div>
+        <div style="left: 191px; top: 71px; position: absolute; color: #565656; font-size: 10.06px; font-family: Alexandria; font-weight: 500; word-wrap: break-word">#موجز</div>
+        <div style="width: 41px; height: 18px; left: 230px; top: 69px; position: absolute; background: #D9D9D9; border-radius: 5px"></div>
+        <div style="left: 234px; top: 71px; position: absolute; color: #565656; font-size: 10.06px; font-family: Alexandria; font-weight: 500; word-wrap: break-word">#ممتع</div>
+        <div style="width: 107.71px; height: 26px; padding-left: 4.20px; padding-right: 4.20px; padding-top: 2.10px; padding-bottom: 2.10px; left: 0px; top: 104px; position: absolute; background: #72A559; box-shadow: 0px 0px 2.0994575023651123px rgba(30, 30, 30, 0.60); border-radius: 7px; border: 0.52px solid; justify-content: center; align-items: center; gap: 7.35px; display: inline-flex">
+            <div style="color: white; font-size: 12.84px; font-family: Alexandria; font-weight: 500; word-wrap: break-word">الإنضمام</div>
+        </div>
+    </div>
+    <div style="flex-direction: column; justify-content: flex-start; align-items: flex-end; gap: 5px; display: flex">
+        <div style="text-align: center; color: black; font-size: 24.69px; font-family: Alexandria; font-weight: 600; line-height: 32.41px; word-wrap: break-word">المحتويات</div>
+        <div style="flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+            <div style="padding: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+                <div style="width: 340.56px; height: 59.23px; position: relative">
+                    <div style="width: 340.56px; height: 59.23px; left: 0px; top: 0px; position: absolute; box-shadow: 0px 0px 3.701694965362549px rgba(0, 0, 0, 0.25); border-radius: 9.25px; border: 0.93px rgba(0, 0, 0, 0.22) solid"></div>
+                    <div style="width: 39.18px; height: 19.43px; left: 11.11px; top: 20.36px; position: absolute; background: #292D32"></div>
+                    <div style="left: 197.12px; top: 29.61px; position: absolute; text-align: right; color: black; font-size: 22.85px; font-family: Alexandria; font-weight: 600; word-wrap: break-word">الفصل الأول</div>
+                </div>
+            </div>
+            <div style="padding: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+                <div style="width: 340.56px; height: 59.23px; position: relative">
+                    <div style="width: 340.56px; height: 59.23px; left: 0px; top: 0px; position: absolute; box-shadow: 0px 0px 3.701694965362549px rgba(0, 0, 0, 0.25); border-radius: 9.25px; border: 0.93px rgba(0, 0, 0, 0.22) solid"></div>
+                    <div style="width: 39.18px; height: 19.43px; left: 11.11px; top: 20.36px; position: absolute; background: #292D32"></div>
+                    <div style="left: 197.12px; top: 29.61px; position: absolute; text-align: right; color: black; font-size: 22.85px; font-family: Alexandria; font-weight: 600; word-wrap: break-word">الفصل الأول</div>
+                </div>
+            </div>
+            <div style="padding: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+                <div style="width: 340.56px; height: 59.23px; position: relative">
+                    <div style="width: 340.56px; height: 59.23px; left: 0px; top: 0px; position: absolute; box-shadow: 0px 0px 3.701694965362549px rgba(0, 0, 0, 0.25); border-radius: 9.25px; border: 0.93px rgba(0, 0, 0, 0.22) solid"></div>
+                    <div style="width: 39.18px; height: 19.43px; left: 11.11px; top: 20.36px; position: absolute; background: #292D32"></div>
+                    <div style="left: 197.12px; top: 29.61px; position: absolute; text-align: right; color: black; font-size: 22.85px; font-family: Alexandria; font-weight: 600; word-wrap: break-word">الفصل الأول</div>
+                </div>
+            </div>
+            <div style="padding: 10px; flex-direction: column; justify-content: flex-start; align-items: flex-start; gap: 10px; display: flex">
+                <div style="width: 341px; height: 59.30px; position: relative">
+                    <div style="width: 341px; height: 59.30px; left: 0px; top: 0px; position: absolute; box-shadow: 0px 0px 3.70652174949646px rgba(0, 0, 0, 0.25); border-radius: 9.27px; border: 0.93px rgba(0, 0, 0, 0.22) solid"></div>
+                    <div style="width: 39.24px; height: 19.46px; left: 11.12px; top: 20.39px; position: absolute; background: #292D32"></div>
+                    <div style="left: 197.37px; top: 29.65px; position: absolute; text-align: right; color: black; font-size: 22.88px; font-family: Alexandria; font-weight: 600; word-wrap: break-word">الفصل الأول</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
