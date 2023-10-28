@@ -1,0 +1,130 @@
+<div style="width: 100%; height: 100%; position: relative; background: white">
+    <div style="width: 393px; height: 131px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="left: 121px; top: 448px; position: absolute; color: black; font-size: 21.53px; font-family: Alexandria; font-weight: 700; word-wrap: break-word">أكمل من حيث توقفت</div>
+    <div style="left: 151px; top: 747px; position: absolute; color: black; font-size: 21.53px; font-family: Alexandria; font-weight: 700; word-wrap: break-word">قائمة المفضلات</div>
+    <div style="left: 146px; top: 205px; position: absolute; color: black; font-size: 21.53px; font-family: Alexandria; font-weight: 700; word-wrap: break-word">ترتيب المتنافسين</div>
+    <div style="width: 32px; height: 32px; left: 350px; top: 445px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 32px; height: 32px" src="https://via.placeholder.com/32x32" />
+    </div>
+    <div style="width: 370px; height: 210px; left: 12px; top: 498px; position: absolute">
+        <div style="width: 370px; height: 210px; left: 0px; top: 0px; position: absolute; background: white; box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25); border-radius: 20px"></div>
+        <div style="width: 370px; height: 1px; left: 0px; top: 149px; position: absolute; background: #868090"></div>
+        <div style="width: 231px; height: 135.84px; left: 6px; top: 13px; position: absolute">
+            <div style="width: 357px; height: 139px; left: 0px; top: -8px; position: absolute; background: #B8DFF2; border-top-left-radius: 13.79px; border-top-right-radius: 13.79px"></div>
+            <div style="left: 128px; top: 15px; position: absolute; color: white; font-size: 44.13px; font-family: Alexandria; font-weight: 700; word-wrap: break-word">Java </div>
+            <div style="left: 81px; top: 69px; position: absolute; color: white; font-size: 20.14px; font-family: Alexandria; font-weight: 700; word-wrap: break-word">مقدمة بالبرمجة 101</div>
+        </div>
+        <div style="width: 306px; height: 16px; left: 28px; top: 170px; position: absolute; background: #D9D9D9; border-radius: 10px"></div>
+        <div style="width: 91px; height: 16px; left: 28px; top: 170px; position: absolute; background: black; border-radius: 10px"></div>
+    </div>
+    <div style="width: 31px; height: 31px; left: 337px; top: 745px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 31px; height: 31px" src="https://via.placeholder.com/31x31" />
+    </div>
+    <div style="width: 336px; height: 70px; padding: 15px; left: 27px; top: 797px; position: absolute; background: rgba(133.91, 127.96, 143.64, 0.16); border-radius: 20px; overflow: hidden; flex-direction: column; justify-content: flex-start; align-items: center; gap: 18px; display: inline-flex">
+        <div style="width: 303.68px; padding: 8px; background: #D9D9D9; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25); border-radius: 19.16px; overflow: hidden; justify-content: center; align-items: center; gap: 9.58px; display: inline-flex">
+            <div style="color: black; font-size: 20px; font-family: Alexandria; font-weight: 500; word-wrap: break-word">تحدي أكتوبر للبرمجة</div>
+            <img style="width: 26.34px; height: 26.34px" src="https://via.placeholder.com/26x26" />
+        </div>
+        <div style="width: 303.68px; padding: 8px; background: #D9D9D9; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25); border-radius: 19.16px; overflow: hidden; justify-content: center; align-items: center; gap: 9.58px; display: inline-flex">
+            <div style="color: black; font-size: 20px; font-family: Alexandria; font-weight: 500; word-wrap: break-word">تحدي عارف الاسبوعي</div>
+            <img style="width: 26.34px; height: 26.34px" src="https://via.placeholder.com/26x26" />
+        </div>
+        <div style="width: 303px; height: 42px; padding: 8px; background: #D9D9D9; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25); border-radius: 20px; overflow: hidden; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="color: black; font-size: 20px; font-family: Alexandria; font-weight: 500; word-wrap: break-word">مقدمة في البرمجة جافا</div>
+            <div style="width: 29px; height: 29px; justify-content: center; align-items: center; display: flex">
+                <img style="width: 29px; height: 29px" src="https://via.placeholder.com/29x29" />
+            </div>
+        </div>
+        <div style="width: 303px; height: 42px; padding: 8px; background: #D9D9D9; box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25); border-radius: 20px; overflow: hidden; justify-content: center; align-items: center; gap: 10px; display: inline-flex">
+            <div style="color: black; font-size: 20px; font-family: Alexandria; font-weight: 500; word-wrap: break-word">مقدمة في البرمجة الشيئية</div>
+            <div style="width: 29px; height: 29px; justify-content: center; align-items: center; display: flex">
+                <img style="width: 29px; height: 29px" src="https://via.placeholder.com/29x29" />
+            </div>
+        </div>
+    </div>
+    <div style="padding-bottom: 4.34px; padding-right: 4.34px; left: 22px; top: 255px; position: absolute; border-radius: 20.02px; overflow: hidden; border: 2px rgba(133.91, 127.96, 143.64, 0.06) solid; justify-content: flex-start; align-items: center; display: inline-flex">
+        <div style="width: 338.66px; height: 162.82px; position: relative; flex-direction: column; justify-content: flex-start; align-items: flex-start; display: flex">
+            <img style="width: 45.59px; height: 45.59px" src="https://via.placeholder.com/46x46" />
+            <div style="width: 338.66px; height: 162.82px; background: white; border-radius: 21.71px"></div>
+            <img style="width: 36.91px; height: 36.91px; background: linear-gradient(0deg, #CCC1F0 0%, #CCC1F0 100%); border-radius: 18.45px" src="https://via.placeholder.com/37x37" />
+            <div style="color: black; font-size: 21.71px; font-family: Alexandria; font-weight: 600; word-wrap: break-word">رغد مبارك</div>
+            <div style="color: black; font-size: 8.35px; font-family: Alexandria; font-weight: 400; word-wrap: break-word">@raghad</div>
+            <div style="width: 343.32px; height: 2px; background: rgba(133.91, 127.96, 143.64, 0.07)"></div>
+            <img style="width: 45.59px; height: 45.59px" src="https://via.placeholder.com/46x46" />
+            <div style="color: black; font-size: 21.71px; font-family: Alexandria; font-weight: 600; word-wrap: break-word">لبنى سعود</div>
+            <img style="width: 36.91px; height: 36.91px; background: linear-gradient(0deg, #F3ABA7 0%, #F3ABA7 100%); border-radius: 18.45px" src="https://via.placeholder.com/37x37" />
+            <div style="color: black; font-size: 8.35px; font-family: Alexandria; font-weight: 400; word-wrap: break-word">@lubna</div>
+            <div style="width: 343.32px; height: 2px; background: rgba(133.91, 127.96, 143.64, 0.07)"></div>
+            <img style="width: 45.59px; height: 45.59px" src="https://via.placeholder.com/46x46" />
+            <div style="color: black; font-size: 21.71px; font-family: Alexandria; font-weight: 600; word-wrap: break-word">حسام عبدالله</div>
+            <img style="width: 36.91px; height: 36.91px; background: linear-gradient(0deg, #F4CE9B 0%, #F4CE9B 100%); border-radius: 18.45px" src="https://via.placeholder.com/37x37" />
+            <div style="color: black; font-size: 8.35px; font-family: Alexandria; font-weight: 400; word-wrap: break-word">@hussam</div>
+        </div>
+    </div>
+    <div style="width: 27px; height: 27px; left: 336px; top: 205px; position: absolute; justify-content: center; align-items: center; display: inline-flex">
+        <img style="width: 27px; height: 27px" src="https://via.placeholder.com/27x27" />
+    </div>
+    <div style="width: 346px; height: 49px; left: 25px; top: 126px; position: absolute">
+        <div style="width: 346px; height: 49px; left: 0px; top: 0px; position: absolute; background: #D9D9D9; border-radius: 20px"></div>
+        <div style="left: 232px; top: 13px; position: absolute; color: rgba(0, 0, 0, 0.17); font-size: 18.63px; font-family: Alexandria; font-weight: 600; word-wrap: break-word">أبحث عن...</div>
+        <div style="width: 28.67px; height: 28.67px; left: 10px; top: 11px; position: absolute">
+            <div style="width: 28.67px; height: 28.67px; left: 0px; top: 0px; position: absolute"></div>
+            <div style="width: 16.73px; height: 16.73px; left: 3.58px; top: 3.58px; position: absolute; border: 2.39px #B4B4B4 solid"></div>
+            <div style="width: 7.17px; height: 7.17px; left: 17.92px; top: 17.92px; position: absolute; border: 2.39px #B4B4B4 solid"></div>
+        </div>
+    </div>
+    <div style="width: 393px; height: 115px; left: 0px; top: 0px; position: absolute; background: white"></div>
+    <div style="height: 53px; padding-left: 8px; padding-right: 8px; padding-top: 5px; padding-bottom: 5px; left: 24px; top: 61px; position: absolute; background: white; border-top-left-radius: 8px; border-top-right-radius: 8px; flex-direction: column; justify-content: flex-start; align-items: flex-end; gap: 2px; display: inline-flex">
+        <div style="justify-content: center; align-items: center; gap: 9px; display: inline-flex">
+            <div style="color: #89308C; font-size: 19px; font-family: Alexandria; font-weight: 500; word-wrap: break-word">سلمى عبيد</div>
+            <img style="width: 43px; height: 43px; background: linear-gradient(0deg, #770B7B 0%, #770B7B 100%); box-shadow: 0px 0px 2.6875px #868090; border-radius: 9999px; border: 0.34px rgba(255, 255, 255, 0.20) solid" src="https://via.placeholder.com/43x43" />
+        </div>
+    </div>
+    <div style="left: 233px; top: 66px; position: absolute; justify-content: center; align-items: center; gap: 9px; display: inline-flex">
+        <div style="color: #89308C; font-size: 19px; font-family: Alexandria; font-weight: 500; word-wrap: break-word">سلمى عبيد</div>
+        <img style="width: 43px; height: 43px; background: linear-gradient(0deg, #770B7B 0%, #770B7B 100%); box-shadow: 0px 0px 2.6875px #868090; border-radius: 9999px; border: 0.34px rgba(255, 255, 255, 0.20) solid" src="https://via.placeholder.com/43x43" />
+    </div>
+    <div style="width: 33px; height: 37px; padding-left: 7px; padding-right: 7px; padding-top: 6px; padding-bottom: 6px; left: 41px; top: 68px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white; box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25); border-radius: 20px; overflow: hidden; justify-content: flex-start; align-items: center; gap: 9px; display: inline-flex">
+        <img style="width: 19px; height: 20px" src="https://via.placeholder.com/19x20" />
+        <div style="width: 20px; height: 20px; position: relative"></div>
+    </div>
+    <div style="left: 0px; top: 0px; position: absolute; justify-content: flex-start; align-items: flex-start; display: inline-flex">
+        <div style="width: 393px; height: 59px; justify-content: center; align-items: flex-end; display: flex">
+            <div style="flex: 1 1 0; align-self: stretch; padding-bottom: 3px; padding-left: 10px; flex-direction: column; justify-content: center; align-items: center; gap: 8px; display: inline-flex">
+                <div style="width: 54px; height: 21px; border-radius: 24px; justify-content: center; align-items: center; display: inline-flex">
+                    <div style="width: 56.22px; height: 20.82px; text-align: center; color: black; font-size: 16px; font-family: SF Pro Text; font-weight: 600; line-height: 21px; word-wrap: break-word">9:41</div>
+                </div>
+            </div>
+            <div style="align-self: stretch; flex-direction: column; justify-content: center; align-items: center; display: inline-flex">
+                <div style="width: 125px; height: 37px; background: black; border-radius: 100px; justify-content: center; align-items: flex-start; gap: 8px; display: inline-flex">
+                    <div style="width: 80px; height: 37px; position: relative; background: black; border-radius: 100px"></div>
+                    <div style="width: 37px; height: 37px; position: relative; background: black; border-radius: 100px"></div>
+                </div>
+            </div>
+            <div style="flex: 1 1 0; align-self: stretch; padding-right: 11px; justify-content: center; align-items: center; gap: 8px; display: flex">
+                <div style="justify-content: flex-start; align-items: flex-start; gap: 8px; display: flex">
+                    <div style="width: 18px; height: 12px; background: black"></div>
+                    <img style="width: 17px; height: 11.83px" src="https://via.placeholder.com/17x12" />
+                    <div style="width: 27.40px; height: 13px; position: relative">
+                        <div style="width: 25px; height: 13px; left: 0px; top: 0px; position: absolute; opacity: 0.35; border-radius: 4px; border: 1px black solid"></div>
+                        <div style="width: 1.40px; height: 4.22px; left: 26px; top: 5px; position: absolute; opacity: 0.40; background: black"></div>
+                        <div style="width: 21px; height: 9px; left: 2px; top: 2px; position: absolute; background: black; border-radius: 2px"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div style="width: 33px; height: 37px; padding-left: 7px; padding-right: 7px; padding-top: 6px; padding-bottom: 6px; left: 119px; top: 68px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white; box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25); border-radius: 20px; overflow: hidden; justify-content: flex-start; align-items: center; gap: 9px; display: inline-flex">
+        <div style="width: 20px; height: 20px; padding-left: 2px; transform: rotate(180deg); transform-origin: 0 0; justify-content: flex-end; align-items: center; display: flex">
+            <img style="width: 20px; height: 20px; border-radius: 9px" src="https://via.placeholder.com/20x20" />
+        </div>
+        <div style="width: 20px; height: 20px; position: relative"></div>
+    </div>
+    <div style="width: 33px; height: 37px; padding-left: 7px; padding-right: 7px; padding-top: 6px; padding-bottom: 6px; left: 80px; top: 68px; position: absolute; transform: rotate(180deg); transform-origin: 0 0; background: white; box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25); border-radius: 20px; overflow: hidden; justify-content: flex-start; align-items: center; gap: 9px; display: inline-flex">
+        <div style="width: 20px; height: 20px; transform: rotate(180deg); transform-origin: 0 0; justify-content: center; align-items: center; display: flex">
+            <img style="width: 20px; height: 20px" src="https://via.placeholder.com/20x20" />
+        </div>
+        <div style="width: 19px; height: 20px"></div>
+        <div style="width: 20px; height: 20px; position: relative"></div>
+    </div>
+</div>
